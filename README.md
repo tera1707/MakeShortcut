@@ -1,0 +1,2 @@
+# MakeShortcut
+AUMIDとCLSIDをつけてショートカットを作成するサンプルアプリ
