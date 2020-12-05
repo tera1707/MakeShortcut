@@ -42,8 +42,8 @@ namespace MakeShortCut
                 System.IO.Path.GetDirectoryName(tbTargetPath.Text),
                 Shortcut.ShortcutWindowState.Normal,
                 "",
-                "MyCompany.MyApp",
-                new Guid("1F669282-AFD9-4FB2-AEEB-E0B010C12FE7")
+                tbAumid.Text,
+                new Guid(tbClsid.Text)
                 );
         }
 
