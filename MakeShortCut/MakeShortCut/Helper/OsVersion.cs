@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+Copyright (c) 2014-2015 EMO
+Released under the MIT license
+https://github.com/emoacht/DesktopToast/blob/master/LICENSE.txt
+*/
+using System;
 using System.Linq;
 using System.Management;
 
